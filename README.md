@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 
 # My statistics in Github
-[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=ulixius9&show_icons=true&theme=prussian&count_private=true)](https://github.com/ulixius9/github-readme-stats)
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=ulixius9&show_icons=true&theme=blue-green&count_private=true)](https://github.com/ulixius9/github-readme-stats)
 
