@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Linkedin: mayur-singal](https://img.shields.io/badge/-mayur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-singal-477a76141/)](https://www.linkedin.com/in/mayur-singal-477a76141/)
+[![Linkedin: mayur-singal](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-singal-477a76141/)](https://www.linkedin.com/in/mayur-singal-477a76141/)
 
 
 ## My statistics in Github
